@@ -1,0 +1,4 @@
+requests
+mnemonic
+paho-mqtt
+pycryptodome
