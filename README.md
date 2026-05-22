@@ -1,0 +1,2 @@
+# seedst
+Seed Syncthing Wrapper
